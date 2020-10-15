@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\75742\source\repos\bst\bst\bstree.h(264): warning C4715: “BSTree<int>::operator-=”: 不是所有的控件路径都返回值
+c:\users\75742\source\repos\bst\bst\bstree.h(120): warning C4715: “BSTree<int>::destroy”: 不是所有的控件路径都返回值
+c:\users\75742\source\repos\bst\bst\bstree.h(21): warning C4715: “BSTree<int>::height”: 不是所有的控件路径都返回值
+  BST.vcxproj -> C:\Users\75742\source\repos\BST\Debug\BST.exe
